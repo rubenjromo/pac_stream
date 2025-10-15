@@ -33,10 +33,10 @@ FEATURE_COLUMNS = [
 ]
 
 # --- INTERFAZ DE USUARIO ---
-st.title("🏗️ Calculadora Predictiva de Resistencia del Concreto")
+st.title("Calculadora Predictiva de Resistencia del Concreto")
 st.markdown(
-    "Esta herramienta, basada en la investigación de tesis, predice la evolución de la resistencia a compresión del concreto, "
-    "evaluando el impacto del uso de lodo de PAC como material cementicio suplementario."
+    "Esta herramienta predice la evolución de la resistencia a compresión del concreto, "
+    "evaluando el impacto del uso de lodo de PAC como material cementicio suplementario. Rubén Romo"
 )
 st.write("---")
 
